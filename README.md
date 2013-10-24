@@ -5,7 +5,6 @@ WiiBP
 <img alt="img" src="http://3.bp.blogspot.com/-S7qq0QV3YKQ/UmkFlfVw07I/AAAAAAAACoY/5aQHTXIXqnY/s1600/DSCF5578_0.jpg">
 </a>
 </div>
-<br>
 WiiBP for Bus Pirate 4.0
 <br>
 Simple software control for a Wii Nunchuk.
